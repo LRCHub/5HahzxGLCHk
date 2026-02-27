@@ -1,0 +1,168 @@
+{
+  "version": 1,
+  "base_track": "escape（feat. 缶缶）",
+  "base_artist": "ナツノセ",
+  "createdAt": "2026-02-27T09:55:33.371655Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Escape (feat. Darrison)",
+      "artist": "Netsky",
+      "has_synced": true,
+      "path": "select/01_Escape_(feat._Darrison)_Netsky.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "ESCAPE (feat. Kučka)",
+      "artist": "Flume feat. QUIET BISON & KUČKA",
+      "has_synced": true,
+      "path": "select/02_ESCAPE_(feat._Kučka)_Flume_feat._QUIET_BISON_&_KUČKA.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "ESCAPE (feat. QUIET BISON & Kučka)",
+      "artist": "Flume",
+      "has_synced": true,
+      "path": "select/03_ESCAPE_(feat._QUIET_BISON_&_Kučka)_Flume.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "The Sweet Escape (feat. Akon)",
+      "artist": "Gwen Stefani",
+      "has_synced": true,
+      "path": "select/04_The_Sweet_Escape_(feat._Akon)_Gwen_Stefani.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Escape (feat. Hayla)",
+      "artist": "Kx5 feat. deadmau5, Kaskade & Hayla",
+      "has_synced": true,
+      "path": "select/05_Escape_(feat._Hayla)_Kx5_feat._deadmau5,_Kaskade_&_Hayla.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "The Sweet Escape (feat. Akon)",
+      "artist": "Gwen Stefani",
+      "has_synced": true,
+      "path": "select/06_The_Sweet_Escape_(feat._Akon)_Gwen_Stefani.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Escape (feat. Satellite Empire)",
+      "artist": "Sébastien, Satellite Empire",
+      "has_synced": true,
+      "path": "select/07_Escape_(feat._Satellite_Empire)_Sébastien,_Satellite_Empire.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Sweet Escape (feat. Sirena)",
+      "artist": "Alesso, Sirena",
+      "has_synced": true,
+      "path": "select/08_Sweet_Escape_(feat._Sirena)_Alesso,_Sirena.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Escape (feat. Hayla)",
+      "artist": "Kx5 feat. deadmau5, Kaskade & Hayla",
+      "has_synced": true,
+      "path": "select/09_Escape_(feat._Hayla)_Kx5_feat._deadmau5,_Kaskade_&_Hayla.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Escape (feat. Hayla)",
+      "artist": "Kx5, deadmau5 & Kaskade",
+      "has_synced": true,
+      "path": "select/10_Escape_(feat._Hayla)_Kx5,_deadmau5_&_Kaskade.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Escape (feat. Hayla) [Mixed]",
+      "artist": "Kx5, deadmau5 & Kaskade",
+      "has_synced": false,
+      "path": "select/11_Escape_(feat._Hayla)_[Mixed]_Kx5,_deadmau5_&_Kaskade.txt"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "The Great Escape (feat. Central Cee)",
+      "artist": "Blanco feat. Central Cee",
+      "has_synced": true,
+      "path": "select/12_The_Great_Escape_(feat._Central_Cee)_Blanco_feat._Central_Cee.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "The Great Escape (feat. Central Cee)",
+      "artist": "Blanco/Central Cee",
+      "has_synced": true,
+      "path": "select/13_The_Great_Escape_(feat._Central_Cee)_Blanco_Central_Cee.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Escape (feat. Petter Carlsen)",
+      "artist": "Long Distance Calling",
+      "has_synced": true,
+      "path": "select/14_Escape_(feat._Petter_Carlsen)_Long_Distance_Calling.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Tangled In The Great Escape (Feat. Jason Butler)",
+      "artist": "Pierce the Veil",
+      "has_synced": false,
+      "path": "select/15_Tangled_In_The_Great_Escape_(Feat._Jason_Butler)_Pierce_the_Veil.txt"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "Tangled In The Great Escape (feat. Jason Butler)",
+      "artist": "Pierce The Veil",
+      "has_synced": true,
+      "path": "select/16_Tangled_In_The_Great_Escape_(feat._Jason_Butler)_Pierce_The_Veil.lrc"
+    },
+    {
+      "id": "lrclib_17",
+      "source": "lrclib",
+      "title": "Grand Escape (feat. Toko Miura)",
+      "artist": "RADWIMPS",
+      "has_synced": false,
+      "path": "select/17_Grand_Escape_(feat._Toko_Miura)_RADWIMPS.txt"
+    },
+    {
+      "id": "lrclib_18",
+      "source": "lrclib",
+      "title": "Grand Escape (feat. Toko Miura)",
+      "artist": "RADWIMPS, Toko Miura",
+      "has_synced": true,
+      "path": "select/18_Grand_Escape_(feat._Toko_Miura)_RADWIMPS,_Toko_Miura.lrc"
+    },
+    {
+      "id": "lrclib_19",
+      "source": "lrclib",
+      "title": "Grand Escape (feat. Toko Miura)",
+      "artist": "RADWIMPS",
+      "has_synced": true,
+      "path": "select/19_Grand_Escape_(feat._Toko_Miura)_RADWIMPS.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "escape (feat. 缶缶)",
+      "artist": "ナツノセ",
+      "has_synced": false,
+      "path": "select/pl_01_escape_(feat._缶缶)_ナツノセ.txt"
+    }
+  ]
+}
